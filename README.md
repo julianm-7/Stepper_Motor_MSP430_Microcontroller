@@ -1,4 +1,4 @@
-Please email me: jm19w@fsu.edu for access to the .c file. It has been hidden to prevent use by other students in their Microprocessor class.
+Please email me: jm19w@fsu.edu for access to the .c file. It has been hidden to prevent use since it was part of a Final Project in a class
 
 The (.c) file contains over 800 lines of code which programmed a stepper motor to rotate based on input signals from an OPT3001 Light Sensor and GPIO pushbuttons. Some of the features used were hardware interrupts, I2C communications, and use of the timer peripherals found on the MSP430 microcontroller development boar
 
